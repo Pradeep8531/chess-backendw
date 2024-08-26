@@ -1,8 +1,10 @@
-5x5 Grid Game Backend
+**5x5 Grid Game Backend**
+
 This is the backend server implementation for a 5x5 grid-based game where two players deploy and move teams of characters. 
 The backend handles the game logic, including character placement, movement, and combat, using WebSocket communication with the frontend.
 
-Features
+**Features**
+
 WebSocket Server: Handles real-time communication between the game server and clients.
 Game State Management: Manages the game state, including the grid, character positions, and player turns.
 Character Placement: Allows players to place characters on their starting row during the setup phase.
