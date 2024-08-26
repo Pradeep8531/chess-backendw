@@ -13,8 +13,8 @@ Game Over Handling: Detects when a player wins by eliminating all opponent chara
 Installation
 1) Clone this repository to your local machine: **git clone <repository-url>**
 2) Navigate to the project directory: **cd 5x5-grid-game-backend**
-3) Install the required dependencies:** npm install**
+3) Install the required dependencies: **npm install**
 
 Running the Server
-To start the WebSocket server, run:** node server.js**
+To start the WebSocket server, run: **node server.js**
 (The server will start on ws://localhost:3001)
