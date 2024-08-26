@@ -11,10 +11,10 @@ Combat Mechanics: Handles combat when a character moves into an opponent's chara
 Game Over Handling: Detects when a player wins by eliminating all opponent characters and broadcasts the game-over state to all clients.
 
 Installation
-1) Clone this repository to your local machine: git clone <repository-url>
-2) Navigate to the project directory: cd 5x5-grid-game-backend
-3) Install the required dependencies: npm install
+1) Clone this repository to your local machine: **git clone <repository-url>**
+2) Navigate to the project directory: **cd 5x5-grid-game-backend**
+3) Install the required dependencies:** npm install**
 
 Running the Server
-To start the WebSocket server, run: node server.js
+To start the WebSocket server, run:** node server.js**
 (The server will start on ws://localhost:3001)
